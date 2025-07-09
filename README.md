@@ -1,7 +1,6 @@
-📝 To-Do List Smart Contract
 A simple yet powerful To-Do List DApp written in Solidity. This smart contract allows users to manage tasks with features like priorities, categories, due dates, status updates, and filtering. Ideal for learning task management logic on-chain.
 
-🚀 Features
+🚀 Features:
 Add new tasks with:
 
 Description
